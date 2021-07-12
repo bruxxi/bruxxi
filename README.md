@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruna Nunciato</h1>
-<h3 align="center">A Eternal Student of Life</h3>
+<h3 align="center">An Eternal Student of Life</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruxxi&label=Profile%20views&color=0e75b6&style=flat" alt="bruxxi" /> </p>
 
