@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BackEnd Projects**
 
-- 🌱 I’m currently learning **Node.Js, Typescript, API,database, Heroku**
+- 🌱 I’m currently learning **Node.Js, Typescript, API,database, MySQL**
 
 - 📫 How to reach me **bruna_nunciato@hotmail.com**
 
