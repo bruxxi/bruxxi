@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.Js, Typescript, API,database, MySQL, Heroku, DevOps**
 
-- 📫 How to reach me **bruna_nunciato@hotmail.com**
+- 📫 How to reach me **@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
